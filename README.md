@@ -1,6 +1,7 @@
 # neuralnilm
 Deep Neural Networks Applied to Energy Disaggregation
 
+2017.4.9
 This is a complete re-write of the
 [Neural NILM Prototype](https://github.com/JackKelly/neuralnilm_prototype).
 
