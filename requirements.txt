@@ -1,4 +1,4 @@
-cython
+ycython
 ipdb
 ipython
 numpy
@@ -19,5 +19,6 @@ h5py
 pymongo
 -e git+git@github.com:nilmtk/nilm_metadata.git#egg=nilm_metadata-master
 -e git+git@github.com:nilmtk/nilmtk.git#egg=nilmtk-master
--e git+git@github.com:Theano/Theano.git#egg=Theano-master
+-e git+git@github.com:Theano/Theano.git#egg=Theano-mastery
+
 -e git+git@github.com:Lasagne/Lasagne.git#egg=Lasagne-master
