@@ -3,7 +3,9 @@ Deep Neural Networks Applied to Energy Disaggregation
 
 This is a complete re-write of the
 [Neural NILM Prototype](https://github.com/JackKelly/neuralnilm_prototype).
+
 [nilmtk](https://github.com/luzh14/nilmtk).
+
 # Getting started
 [Here is a short iPython notebook to show how to load activations from UKDALE](https://github.com/JackKelly/neuralnilm/blob/master/notebooks/extract_activations.ipynb).
 
